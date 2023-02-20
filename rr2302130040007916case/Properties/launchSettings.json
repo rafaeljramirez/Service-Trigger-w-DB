@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "rr2302130040007916case": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7268",
+      "launchBrowser": false
+    }
+  }
+}
